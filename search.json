@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Introduction to Artificial Intelligence (Spring 2025)\n\nCS 4260 - Vanderbilt University\nSole Instructor, lecturer, and designer of all course material.\n~60 students\nSlide decks released publicly on Github\nTopics covered:\n\nGOFAI\n\nGoal-directed Search (BFS, DFS, Djikstra, A*, etc.)\nAdversarial Search (Minimax, alpha-beta pruning, Monte Carlo Tree Search)\nAutomated Theorem Proving\nLogic-based Planning\nConstraint Satisfaction Problems\n\nMachine Learning\n\nDecision Trees\nNeural Networks\nMiscellaneous ML Algorithms (K-NN, SVMs, Naive Bayes, etc.)\nClustering (K-Means, Hierarchical Clustering, etc.)\n\nReasoning and Planning under Uncertainty\n\nProbability and Bayes Theorem\nBelief Nets\n(Hierarchical Hidden) Markov Markov\nMarkov Decision Processes\nReinforcement Learning (Value Iteration, Policy Iteration, Q-Learning)\n\nExtra Topics\n\nAI and Philosophy\nAI Ethics\n\n\n\n\n\n\n\nTeaching Assistanceships - Ph.D. (* - guest lectures given)\n\nCS 4260 - Artificial Intelligence (2022F, 2023F, 2024S, 2025F, 2026S*)\nCS 1151 - Computer Ethics (Summer 2023, Summer 2024, Summer 2025)\nCS 3252 - Theory of Automata, Formal Languages, and Computation (2021F, 2023S, 2024F)\nCS 3265 - Databases (Summer 2022, Summer 2023)\nCS 3891 - Computational Creativity (2023S*)\nCS 3892 - Software for Autonomous Vehicles (2022S)\nCS 3270 - Programming Languages (2019F, 2020S, 2020F. 2021S)\n\nTeaching Assistanceships - M.S.\n\nProgramming Languages\nAnalysis of Algorithms"
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "Introduction to Artificial Intelligence (Spring 2025)\n\nCS 4260 - Vanderbilt University\nSole Instructor, lecturer, and designer of all course material.\n~60 students\nSlide decks released publicly on Github\nTopics covered:\n\nGOFAI\n\nGoal-directed Search (BFS, DFS, Djikstra, A*, etc.)\nAdversarial Search (Minimax, alpha-beta pruning, Monte Carlo Tree Search)\nAutomated Theorem Proving\nLogic-based Planning\nConstraint Satisfaction Problems\n\nMachine Learning\n\nDecision Trees\nNeural Networks\nMiscellaneous ML Algorithms (K-NN, SVMs, Naive Bayes, etc.)\nClustering (K-Means, Hierarchical Clustering, etc.)\n\nReasoning and Planning under Uncertainty\n\nProbability and Bayes Theorem\nBelief Nets\n(Hierarchical Hidden) Markov Markov\nMarkov Decision Processes\nReinforcement Learning (Value Iteration, Policy Iteration, Q-Learning)\n\nExtra Topics\n\nAI and Philosophy\nAI Ethics\n\n\n\n\n\n\n\nTeaching Assistanceships - Ph.D. (* - guest lectures given)\n\nCS 4260 - Artificial Intelligence (2022F, 2023F, 2024S, 2025F, 2026S*)\nCS 1151 - Computer Ethics (Summer 2023, Summer 2024, Summer 2025)\nCS 3252 - Theory of Automata, Formal Languages, and Computation (2021F, 2023S, 2024F)\nCS 3265 - Databases (Summer 2022, Summer 2023)\nCS 3891 - Computational Creativity (2023S*)\nCS 3892 - Software for Autonomous Vehicles (2022S)\nCS 3270 - Programming Languages (2019F, 2020S, 2020F. 2021S)\n\nTeaching Assistanceships - M.S.\n\nProgramming Languages\nAnalysis of Algorithms"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kyle Moore",
+    "section": "",
+    "text": "Welcome to my page. I am a recent PhD graduate (Vanderbilt 2026) with a research focus on behavior, uncertainty, reasoning, and cognitive alignment in artificial intelligence systems, particularly large language models. If you are looking for more details on my academic career, check out my CV."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Kyle Moore",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nCurrently Published\n\nArtificial Intelligence and Machine Learning\nNatural Language Processing\nLarge Language Models\nHuman-Comparable AI\nAI Behavior\n\nFuture\n\nHuman-AI Interaction\nAffective Computing\nComputational Creativity\nAI and Humanities\nPhilosophy of AI\nAI for Advocacy"
+  },
+  {
+    "objectID": "index.html#personal-statement",
+    "href": "index.html#personal-statement",
+    "title": "Kyle Moore",
+    "section": "Personal Statement",
+    "text": "Personal Statement\nMuch of the discourse surrounding LLMs has focused on the fear (or for some, the hope) of replacement of humans. I am more hopeful and believe that AI’s true role will instead be one of collaboration. An important pre-requisite of effective collaboration is an understanding of the behavior exhibited by AI systems, which has been the primary focus of my research. To this end, however, I am interested in any research domain that promises to make AI open, understandable, and approachable to human users. This includes, but is by no means limited to, AI behavior, human-AI interaction, affective computing, and computational creativity.\nLess professionally, I have a strong interest in a variety of fields, including philosophy, psychology, sociology, politics, and more. I hope, with time, to explore the increasingly substantial interactions between these fields and artificial intelligence. Please feel welcome to check out my About Me page if you are interested in more details about by personal history and interests."
+  },
+  {
+    "objectID": "index.html#ph.d.-dissertation",
+    "href": "index.html#ph.d.-dissertation",
+    "title": "Kyle Moore",
+    "section": "Ph.D. Dissertation",
+    "text": "Ph.D. Dissertation\nHuman-Analogous Uncertainty Behavior: Cognitive Studies of Large Language Models (public link TBA)"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Kyle Moore",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nBelow are a selection of my recent research. To read about all of my publications, please check out this page\n\nThe Base-Rate Effect on LLM Benchmark Performance: Disambiguating Test-Taking Strategires from Benchmark Performance\nPublished in EMNLP 2024\nThis paper found that LLMs are strongly influenced by arbitrary token preferences that may confound and inflate benchmark performance. It also proposes a novel benchmark alteration technique, Nvr-X, that eliminates many such confounding biases for some benchmark types.\nChain of Thought Still Thinks Fast: APriCoT Helps with Thinking Slow\nPublished in CogSci 2025\nSimilar to the base rate paper above, this paper finds that chain of thought not only fails to eliminate some confounding biases, but may even exacerbate them. A novel alternative inferencing strategy, dubbed APriCoT, succeeds in modulating said biases while also improving task efficacy.\nInvestigating Human-Aligned Large Language Model Uncertainty\nPublished in FLAIRS 2026\nThis paper is the first work to investigate whether LLMs show similar uncertainty occurrence to humans.\nHuman-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty\nUnder review\nThis paper extends on the work above to a much larger model and dataset pool, while also integrating uncertainty calibration and internal activation probing to better characterize the links between human and LLM uncertainty."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, and welcome to my webpage. My name is Kyle Moore, and I’m originally from the modest town of Munford, Tennessee, an exurb of Memphis. I kept busy through grade school and high school with extracurriculars, starting with sports (baseball and football) before transitioning into quiz bowl and working at the locally owned grocery store. Quiz bowl was easily my favorite aspect of high school, and I’m still proud to have placed second — alongside my teammates Jason DeWitt, Reiamarie Guevarra, and Jamie King — in the regional 2012 WREG Knowledge Bowl tournament. After graduating, I spent the next six years in Oxford, Mississippi, studying computer science at Ole Miss. I chose Ole Miss in part because I fell in love with the campus during the twice-yearly quiz bowl tournaments held there (a running theme, I know; I bet you can’t guess my favorite game show). Despite going in with no intention of doing so, I fell backwards into being a founding member of the Alpha Lambda chapter of Pi Kappa Phi, where I picked up leadership and social skills I badly needed at the time. Those skills were also sharpened during my tenure as an IT helpdesk technician for the University’s School of Business Administration under Sam Hammoud. Most importantly, Ole Miss is where I met my long-term fiancée, Mimi Truong (We’ve been engaged a while now — June 2020 turned out to be bad timing, and we’ll get around to it one of these days). We met while we were volunteering as moderators for that same twice-yearly tournament.\nAfter a short but enlightening master’s program, I moved to Nashville, Tennessee to complete my PhD at Vanderbilt University. It was a rocky start, both because COVID hit at the end of my first year and because of limited research overlap with my first advisor, who, I must emphasize, is ultimately blameless. I soon found myself under the tutelage of Dr. Doug Fisher, who caught my interest with a tremendously inspiring seminar course called “Computation and Cognition.” I had the pleasure of working with Dr. Fisher for the remainder of my program, and I thank him heartily for his patience in staying with me through numerous health complications and a semi-retirement. With his help — along with the collaboration of my ubiquitous research partner, Jesse Roberts (now an Assistant Professor at Tennessee Tech University), and more undergraduate research assistants than I can name here - I completed my PhD in the late summer of 2026.\nOn a more personal note, I’ve always been drawn to fantasy and science fiction, whether in books, movies, video games, or anything else. As with many people in artificial intelligence, that was a clear inspiration for the path I’ve taken. Seemingly unlike many, though, I find a strong optimism in that media, buried beneath the pessimistic portents of annihilation. I see hope that we will create a machine as capable and impressive as what nature created in us, and that we will come out the other side having made new companions and collaborators, not conquerors nor chattel. Drawing on the stories that inspired me, I believe far more in Mass Effect’s Legion and Star Trek’s Data than in Skynet or Hal 9000. I recognize that day is likely far off, if it is realistic at all — even given the massive leaps we’ve witnessed during my PhD years alone — but I see it as a goal worth striving for in a world that is increasingly wary of AI advancement on one hand and overeager to replace human workers on the other.\nSome of my personal interests include:\n\nTrying new restaurants\n\nIf you’re ever in Nashville, try out Pelato’s, 615 Chutney, and VN Pho & Deli\n\nTravelling\n\nSome of my favorite trips so far:\n\nNew York City\nBoston\nSan Diego\nLos Angeles\nVietnam (Da Nang, Hue, and Ho Chi Minh City)\n\nSome (of the many) places I hope to visit:\n\nSeattle\nChicago\nTokyo\nIreland\nBarcelona\n\n\nTrivia (all kinds, find me on LearnedLeague)\nBooks, Movies, Anime, and Video Games (maybe link to my storygraph)\n\nFavorite Book - Red Rising Series\nFavorite Movie - The Matrix Series (yes, the whole thing. Resurrections doesn’t count)\nFavorite Anime - Yu Yu Hakusho\nFavorite Video Game - Dragon Age: Origins\n\nGroup games including Dungeons and Dragons, most board games, and Texas Hold’em"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Artificial Intelligence & Machine Learning\nNatural Language Processing\nLarge Language Models\nAI Behavior & Human–AI Comparison\nHuman-AI Interaction (Future direction)\nAffective Computing (Future direction)\nComputational Creativity (Future direction)\nAI and Humanities (Future direction)"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Artificial Intelligence & Machine Learning\nNatural Language Processing\nLarge Language Models\nAI Behavior & Human–AI Comparison\nHuman-AI Interaction (Future direction)\nAffective Computing (Future direction)\nComputational Creativity (Future direction)\nAI and Humanities (Future direction)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPh.D., Computer Science - Vanderbilt University\n\nAug 2019 - Aug 2026\nAdvisors: Doug Fisher, Meiyi Ma\nDissertation: “Human-Analogous Uncertainty Behavior: Cognitive Studies of Large Language Models”\n\nM.S., Computer Science - University of Mississippi\n\nAug 2017 - May 2019\nAdvisors: Naeemul Hassan, Dawn Wilkins\nThesis: “Building an Automated QA System Using Online Forums as Knowledge Bases”\n\nB.S., Computer Science - University of Mississippi\n\nAug 2013 - May 2017"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nPeer Reviewed\n\nMoore, K., Roberts, J., Watson, D., Wisniewski, P. “Investigating Human-Aligned Large Language Model Uncertainty.” FLAIRS 2026.\nSawyer, H., Roberts, J., Moore, K. “Basic Categories in Vision Language Models: Expert Prompting Doesn’t Grant Expertise.” ACS 2025.\nMoore, K., Roberts, J., Pham, T., Fisher, D. “Chain of Thought Still Thinks Fast: APriCoT Helps with Thinking Slow.” CogSci 47, 2025.\nMoore, K., Roberts, J., Pham, T., Ewaleifoh, O., Fisher, D. “The Base-Rate Effect on LLM Benchmark Performance: Disambiguating Test-Taking Strategies from Benchmark Performance.” EMNLP 2024.\nRoberts, J., Moore, K., Fisher, D., Ewaleifoh, O., Pham, T. “Large Language Model Recall Uncertainty is Modulated by the Fan Effect.” CoNLL 28, 2024.\nRoberts, J., Moore, K., Wilenzick, D., Fisher, D. “Using Artificial Populations to Study Psychological Phenomena in Neural Models.” AAAI 38, 2024.\nTimalsina, U., Broll, B., Moore, K., Lédeczi, Á. “DeepForge for Astronomy: Deep Learning SDSS Redshifts from Images.” Astronomy and Computing 40 (2022).\n\nWorkshop Papers\n\nRoberts, J., Moore, K., Fisher, D. “Do Large Language Models Learn Human-Like Strategic Preferences?” REALM Workshop, ACL 2025.\n\nPreprints / Under Review\n\nMoore, K., Roberts, J., Watson, D., Ward, W., Heyboer, G. “Human-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty.” Preprint, under review, 2026."
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nGraduate Research Assistane - Vanderbilt University\n\nAug 2019 - Aug 2026\nInvestigated whether and how large language models exhibit human-analogous patterns of uncertainty, drawing on cognitive science methodology to design controlled behavioral studies.\nStudied test-taking artifacts and base-rate effects that confound benchmark-based evaluation of LLM capability.\nAnalyzed calibration and internal activation patterns underlying LLM uncertainty and their alignment with human judgment.\nExtended artificial-population methodology to study psychological phenomena (e.g., strategic preference, categorization) in neural language models."
+  },
+  {
+    "objectID": "cv.html#non-academic-work-experience",
+    "href": "cv.html#non-academic-work-experience",
+    "title": "Curriculum Vitae",
+    "section": "Non-Academic Work Experience",
+    "text": "Non-Academic Work Experience\n\nGraduate Teaching Assistant - Vanderbilt University\n\nAug 2019 - May 2026\n\nGraduate Teaching Assistant - University of Mississippi\n\nAug 2017 - May 2019\n\nIT Support Technician - University of Mississippi School of Business\n\nSep 2014 - Sep 2017"
+  },
+  {
+    "objectID": "cv.html#awards-honors",
+    "href": "cv.html#awards-honors",
+    "title": "Curriculum Vitae",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\nIBM Goldstine Fellowship (2019-2022)"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nInstructor of Record\n\nIntroduction to Artificial Intelligence - Vanderbilt University\n\nSpring 2025\nSole instructor, lecturer, and designer of all course materials for a class of ~75 students\nDe facto IOR, but officially listed under faculty advisor (Doug Fisher) as instructor of record entirely due to administrative technicality. Further details available upon request.\n\n\nTeaching Assistanceships - Ph.D. (* - guest lectures given)\n\nArtificial Intelligence (2022F, 2023F, 2024S, 2025F, 2026S*) Computer Ethics (Summer 2023, Summer 2024, Summer 2025)\nTheory of Automata, Formal Languages, and Computation (2021F, 2023S, 2024F)\nDatabases (Summer 2022, Summer 2023)\nComputational Creativity (2023S*)\nSoftware for Autonomous Vehicles (2022S)\nProgramming Languages (2019F, 2020S, 2020F. 2021S)\n\nTeaching Assistanceships - M.S.\n\nProgramming Languages\nAnalysis of Algorithms"
+  },
+  {
+    "objectID": "cv.html#research-presentations",
+    "href": "cv.html#research-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Research Presentations",
+    "text": "Research Presentations\n\nPoster, AAAI 2024\nPoster, EMNLP 2024\nPoster, CogSci 2025\nTalk, FLAIRS 2026"
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "Curriculum Vitae",
+    "section": "Professional Service",
+    "text": "Professional Service\n\nOrganizing Committees\n\nFLAIRS 2026 Special Track: Human-AI Collaboration and Augmented Intelligence (HAICAI)\n\nPeer Review\n\nICLR 2026\nEMNLP 2026\nFLAIRS 2026\nAAAI 2026\nACS 2025\nACL Rolling Review (ARR), February 2025\nREALM Workshop, ACL 2025"
+  },
+  {
+    "objectID": "cv.html#mentoring-advising",
+    "href": "cv.html#mentoring-advising",
+    "title": "Curriculum Vitae",
+    "section": "Mentoring & Advising",
+    "text": "Mentoring & Advising\n\nUndergraduate Research Intern Mentees (only includes mentees that contributed to an eventual peer-reviewed publication):\n\nDrew Wilenzick (AAAI 2024)\nOseremhen Ewaleifoh (CoNLL 2024; EMNLP 2024)\nThao Pham (CoNLL 2024; EMNLP 2024; CogSci 2025)\nDaryl Watson (FLAIRS 2026; preprint 2026)\nWilliam Ward (preprint 2026)\nGreyson Heyboer (preprint 2026)"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages: Python (primary), Java, C/C++, SQL, PHP, Haskell, Lua\nLibraries & Tools: NumPy, pandas, Matplotlib, TensorFlow, PyTorch, scikit-learn\n(Natural) Languages: English (Native Proficiency), Japanese (Elementary Proficiency)"
+  },
+  {
+    "objectID": "cv.html#graduate-courses-taken",
+    "href": "cv.html#graduate-courses-taken",
+    "title": "Curriculum Vitae",
+    "section": "Graduate Courses Taken",
+    "text": "Graduate Courses Taken\n\nPhD – Vanderbilt University\n\nCS 8395 – Special Topics: Computational Game Theory (2021F)\nCS 6388 – Model-Integrated Computing (2020F)\nCS 5891 – Special Topics: Social Network Analysis (2020F)\nCS 8395 - Special Topics: Visual Analytics and Machine Learning (2020S)\nCS 6360 – Advanced Artificial Intelligence (2020S)\nEECE 6354 – Advanced Real-Time Systems (2019F)\nCS 8395 – Special Topics: Computation and Cognition (2019F)\nCS 6376 – Hybrid and Embedded Systems (2019F)\n\nMS – University of Mississippi\n\nCSCI 556 – Multiparadigm Programming (2018F)\nCSCI 561 – Computer Networks (2018F)\nCSCI 547 – Digital Image Processing (2018F)\nCSCI 581 – Special Topics: Compiler Design (2018S)\nCSCI 581 - Special Topics: Natural Language Processing (2018S)\nCSCI 531 - Artificial Intelligence (2018S)\nENGR 692 – Special Topics: High-Performance Computing (2017F)\nENGR 691 – Special Topics: Random Algorithms (2017F)\nCSCI 533 – Analysis of Algorithms (2017F)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "My Publications",
+    "section": "",
+    "text": "My article list is also available, and possibly more up-to-date on my Google Scholar profile (Link)."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "My Publications",
+    "section": "Publications",
+    "text": "Publications\n\nMoore, K., Roberts, J., Watson, D., Ward, W., & Heyboer, G. (2026). Human-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty. arXiv preprint arXiv:2605.30675.\n\nArxiv Link\n\nMoore, K., Roberts, J., Watson, D., & Wisniewski, P. (2026). Investigating Human-Aligned Large Language Model Uncertainty. In Proceedings of the 39th International FLAIRS Conference.\n\nArxiv Link\n\nSawyer, H., Roberts, J., & Moore, K. Basic Categories in Vision Language Models: Expert Prompting Doesn’t Grant Expertise. In Twelfth Annual Conference on Advances in Cognitive Systems.\n\nArxiv Link\n\nRoberts, J., Moore, K., & Fisher, D. (2025, July). Do large language models learn human-like strategic preferences?. In Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025) (pp. 97-108).\n\nArxiv Link\n\nMoore, K., Roberts, J., Pham, T. T. M., & Fisher, D. (2025). Chain of Thought Still Thinks Fast: APriCoT Helps with Thinking Slow. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47).\n\nArxiv Link\n\nMoore, K., Roberts, J., Pham, T., Ewaleifoh, O., & Fisher, D. (2024, November). The base-rate effect on LLM benchmark performance: Disambiguating test-taking strategies from benchmark performance. In Findings of the Association for Computational Linguistics: EMNLP 2024 (pp. 2283-2288).\n\nArxiv Link\n\nRoberts, J., Moore, K., Fisher, D., Ewaleifoh, O., & Pham, T. (2024, November). Large language model recall uncertainty is modulated by the fan effect. In Proceedings of the 28th conference on computational natural language learning (pp. 303-313).\n\nArxiv Link\n\nRoberts, J., Moore, K., Wilenzick, D., & Fisher, D. (2024, March). Using artificial populations to study psychological phenomena in neural models. In Proceedings of the aaai conference on artificial intelligence (Vol. 38, No. 17, pp. 18906-18914).\n\nArxiv Link\n\nTimalsina, U., Broll, B., Moore, K., Budavári, T., & Lédeczi, Á. (2022). DeepForge for astronomy: Deep learning SDSS redshifts from images. Astronomy and Computing, 40.\n\nElsevier Link"
+  }
+]
