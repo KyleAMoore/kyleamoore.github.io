@@ -1,0 +1,82 @@
+<!-- ---
+title: "Kyle Moore"
+subtitle: "Ph.D. Vanderbit University (2026)"
+--- -->
+
+  <!-- template: trestles -->
+  <!-- template: solana -->
+
+---
+title: "Kyle Moore"
+subtitle: "PhD Candidate, Department of Computer Science, Vanderbilt University"
+about:
+  template: trestles
+  
+  image: files/profile_cropped.png
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:moore.kyle.andrew@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/KyleAMoore
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/cv.pdf
+---
+
+Welcome to my page. I am a recent PhD graduate  (Vanderbilt 2026) with a research focus on behavior, uncertainty, reasoning, and cognitive alignment in artificial intelligence systems, particularly large language models. If you are looking for more details on my academic career, check out my [CV](cv.html).
+
+## Research Interests
+* Currently Published
+  * Artificial Intelligence and Machine Learning
+  * Natural Language Processing
+  * Large Language Models
+  * Human-Comparable AI
+  * AI Behavior
+* Future
+  * Human-AI Interaction
+  * Affective Computing
+  * Computational Creativity
+  * AI and Humanities
+  * Philosophy of AI
+  * AI for Advocacy
+
+## Personal Statement
+
+Much of the discourse surrounding LLMs has focused on the fear (or for some, the hope) of replacement of humans. I am more hopeful and believe that AI's true role will instead be one of collaboration. An important pre-requisite of effective collaboration is an understanding of the behavior exhibited by AI systems, which has been the primary focus of my research. To this end, however, I am interested in any research domain that promises to make AI open, understandable, and approachable to human users. This includes, but is by no means limited to, AI behavior, human-AI interaction, affective computing, and computational creativity.
+
+Less professionally, I have a strong interest in a variety of fields, including philosophy, psychology, sociology, politics, and more. I hope, with time, to explore the increasingly substantial interactions between these fields and artificial intelligence. Please feel welcome to check out my [About Me](about.html) page if you are interested in more details about by personal history and interests.
+
+## Ph.D. Dissertation
+Human-Analogous Uncertainty Behavior: Cognitive Studies of Large Language Models (public link TBA)
+
+## Selected Publications
+Below are a selection of my recent research. To read about all of my publications, please check out [this page](publications.html)
+
+* [The Base-Rate Effect on LLM Benchmark Performance: Disambiguating Test-Taking Strategires from Benchmark Performance]()
+  
+    *Published in EMNLP 2024*
+
+    This paper found that LLMs are strongly influenced by arbitrary token preferences that may confound and inflate benchmark performance. It also proposes a novel benchmark alteration technique, Nvr-X, that eliminates many such confounding biases for some benchmark types.
+
+* [Chain of Thought Still Thinks Fast: APriCoT Helps with Thinking Slow]()
+
+    *Published in CogSci 2025*
+
+    Similar to the base rate paper above, this paper finds that chain of thought not only fails to eliminate some confounding biases, but may even exacerbate them. A novel alternative inferencing strategy, dubbed APriCoT, succeeds in modulating said biases while also improving task efficacy.
+
+* [Investigating Human-Aligned Large Language Model Uncertainty]()
+
+    *Published in FLAIRS 2026*
+
+    This paper is the first work to investigate whether LLMs show similar uncertainty occurrence to humans.
+
+* [Human-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty]()
+
+    *Under review*
+
+    This paper extends on the work above to a much larger model and dataset pool, while also integrating uncertainty calibration and internal activation probing to better characterize the links between human and LLM uncertainty.
+
+<!-- Consider a "Current Projects" section/page. Can include PLuMCoT, PopulationLM improvements, Uncertainty Probing,  -->

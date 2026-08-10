@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Kyle Moore"
+  site-url: "https://kyleamoore.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    center: "© 2026 Kyle Moore"
+format:
+  html:
+    theme:
+      # - flatly
+      - flatly
+      - sandstone
+      # - brand
+    css: styles.css
+    toc: true
+
+
+

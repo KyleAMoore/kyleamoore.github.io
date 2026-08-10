@@ -1,0 +1,134 @@
+---
+title: Curriculum Vitae
+subtitle: Kyle Moore  --  [PDF](files/cv.pdf)
+---
+
+## Research Interests
+* Artificial Intelligence & Machine Learning
+* Natural Language Processing 
+* Large Language Models
+* AI Behavior & Human–AI Comparison 
+* Human-AI Interaction (Future direction)
+* Affective Computing (Future direction)
+* Computational Creativity (Future direction)
+* AI and Humanities (Future direction)
+
+## Education
+* Ph.D., Computer Science - Vanderbilt University
+  * Aug 2019 - Aug 2026
+  * Advisors: Doug Fisher, Meiyi Ma
+  * Dissertation: "Human-Analogous Uncertainty Behavior: Cognitive Studies of Large Language Models"
+* M.S., Computer Science - University of Mississippi
+  * Aug 2017 - May 2019
+  * Advisors: Naeemul Hassan, Dawn Wilkins
+  * Thesis: "Building an Automated QA System Using Online Forums as Knowledge Bases"
+* B.S., Computer Science - University of Mississippi
+  * Aug 2013 - May 2017
+
+## Publications
+* Peer Reviewed
+  * Moore, K., Roberts, J., Watson, D., Wisniewski, P. "Investigating Human-Aligned Large Language Model Uncertainty." FLAIRS 2026.
+  * Sawyer, H., Roberts, J., Moore, K. "Basic Categories in Vision Language Models: Expert Prompting Doesn't Grant Expertise." ACS 2025.
+  * Moore, K., Roberts, J., Pham, T., Fisher, D. "Chain of Thought Still Thinks Fast: APriCoT Helps with Thinking Slow." CogSci 47, 2025.
+  * Moore, K., Roberts, J., Pham, T., Ewaleifoh, O., Fisher, D. "The Base-Rate Effect on LLM Benchmark Performance: Disambiguating Test-Taking Strategies from Benchmark Performance." EMNLP 2024.
+  * Roberts, J., Moore, K., Fisher, D., Ewaleifoh, O., Pham, T. "Large Language Model Recall Uncertainty is Modulated by the Fan Effect." CoNLL 28, 2024.
+  * Roberts, J., Moore, K., Wilenzick, D., Fisher, D. "Using Artificial Populations to Study Psychological Phenomena in Neural Models." AAAI 38, 2024.
+  * Timalsina, U., Broll, B., Moore, K., Lédeczi, Á. "DeepForge for Astronomy: Deep Learning SDSS Redshifts from Images." Astronomy and Computing 40 (2022).
+
+* Workshop Papers
+  * Roberts, J., Moore, K., Fisher, D. "Do Large Language Models Learn Human-Like Strategic Preferences?" REALM Workshop, ACL 2025.
+* Preprints / Under Review
+  * Moore, K., Roberts, J., Watson, D., Ward, W., Heyboer, G. "Human-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty." Preprint, under review, 2026.
+
+## Research Experience
+* Graduate Research Assistane - Vanderbilt University
+  * Aug 2019 - Aug 2026
+  * Investigated whether and how large language models exhibit human-analogous patterns of uncertainty, drawing on cognitive science methodology to design controlled behavioral studies.
+  * Studied test-taking artifacts and base-rate effects that confound benchmark-based evaluation of LLM capability.
+  * Analyzed calibration and internal activation patterns underlying LLM uncertainty and their alignment with human judgment.
+  * Extended artificial-population methodology to study psychological phenomena (e.g., strategic preference, categorization) in neural language models.
+
+## Non-Academic Work Experience
+* Graduate Teaching Assistant - Vanderbilt University
+  * Aug 2019 - May 2026
+* Graduate Teaching Assistant - University of Mississippi
+  * Aug 2017 - May 2019
+* IT Support Technician - University of Mississippi School of Business
+  * Sep 2014 - Sep 2017
+
+## Awards & Honors
+* IBM Goldstine Fellowship (2019-2022)
+
+## Teaching Experience
+* Instructor of Record
+  * Introduction to Artificial Intelligence - Vanderbilt University
+    * Spring 2025
+    * Sole instructor, lecturer, and designer of all course materials for a class of ~75 students
+    * De facto IOR, but officially listed under faculty advisor (Doug Fisher) as instructor of record entirely due to administrative technicality. Further details available upon request.
+* Teaching Assistanceships - Ph.D. (* - guest lectures given)
+  * Artificial Intelligence (2022F, 2023F, 2024S*, 2025F*, 2026S*) Computer Ethics (Summer 2023, Summer 2024, Summer 2025)
+  * Theory of Automata, Formal Languages, and Computation (2021F, 2023S*, 2024F*)
+  * Databases (Summer 2022, Summer 2023)
+  * Computational Creativity (2023S*)
+  * Software for Autonomous Vehicles (2022S)
+  * Programming Languages (2019F, 2020S, 2020F. 2021S)
+
+* Teaching Assistanceships - M.S.
+  * Programming Languages
+  * Analysis of Algorithms
+
+
+## Research Presentations
+* Poster, AAAI 2024
+* Poster, EMNLP 2024
+* Poster, CogSci 2025
+* Talk, FLAIRS 2026
+
+
+## Professional Service
+* Organizing Committees
+  * FLAIRS 2026 Special Track: Human-AI Collaboration and Augmented Intelligence (HAICAI)
+* Peer Review
+  * ICLR 2026
+  * EMNLP 2026
+  * FLAIRS 2026
+  * AAAI 2026
+  * ACS 2025
+  * ACL Rolling Review (ARR), February 2025
+  * REALM Workshop, ACL 2025
+
+## Mentoring & Advising
+* Undergraduate Research Intern Mentees (only includes mentees that contributed to an eventual peer-reviewed publication):
+  * Drew Wilenzick (AAAI 2024)
+  * Oseremhen Ewaleifoh (CoNLL 2024; EMNLP 2024)
+  * Thao Pham (CoNLL 2024; EMNLP 2024; CogSci 2025)
+  * Daryl Watson (FLAIRS 2026; preprint 2026)
+  * William Ward (preprint 2026)
+  * Greyson Heyboer (preprint 2026)
+
+## Technical Skills
+* Languages: Python (primary), Java, C/C++, SQL, PHP, Haskell, Lua
+* Libraries & Tools: NumPy, pandas, Matplotlib, TensorFlow, PyTorch, scikit-learn
+* (Natural) Languages: English (Native Proficiency), Japanese (Elementary Proficiency)
+
+
+## Graduate Courses Taken
+* PhD – Vanderbilt University
+  * CS 8395 – Special Topics: Computational Game Theory (2021F)
+  * CS 6388 – Model-Integrated Computing (2020F)
+  * CS 5891 – Special Topics: Social Network Analysis (2020F)
+  * CS 8395 - Special Topics: Visual Analytics and Machine Learning (2020S)
+  * CS 6360 – Advanced Artificial Intelligence (2020S)
+  * EECE 6354 – Advanced Real-Time Systems (2019F)
+  * CS 8395 – Special Topics: Computation and Cognition (2019F)
+  * CS 6376 – Hybrid and Embedded Systems (2019F)
+* MS – University of Mississippi
+  * CSCI 556 – Multiparadigm Programming (2018F)
+  * CSCI 561 – Computer Networks (2018F)
+  * CSCI 547 – Digital Image Processing (2018F)
+  * CSCI 581 – Special Topics: Compiler Design (2018S)
+  * CSCI 581 - Special Topics: Natural Language Processing (2018S)
+  * CSCI 531 - Artificial Intelligence (2018S)
+  * ENGR 692 – Special Topics: High-Performance Computing (2017F)
+  * ENGR 691 – Special Topics: Random Algorithms (2017F)
+  * CSCI 533 – Analysis of Algorithms (2017F)

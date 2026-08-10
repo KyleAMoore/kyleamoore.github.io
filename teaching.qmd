@@ -1,0 +1,47 @@
+---
+title: "Teaching Experience"
+subtitle: "Kyle Moore"
+---
+
+## Teaching Experience
+
+* Introduction to Artificial Intelligence (Spring 2025)
+  * CS 4260 - Vanderbilt University
+  * Sole Instructor, lecturer, and designer of all course material.
+  * ~60 students
+  * Slide decks released publicly [on Github](https://github.com/KyleAMoore/CS-4260-Lecture-Slides)
+  * Topics covered:
+    * GOFAI
+      * Goal-directed Search (BFS, DFS, Djikstra, A*, etc.)
+      * Adversarial Search (Minimax, alpha-beta pruning, Monte Carlo Tree Search)
+      * Automated Theorem Proving
+      * Logic-based Planning
+      * Constraint Satisfaction Problems
+    * Machine Learning
+      * Decision Trees
+      * Neural Networks
+      * Miscellaneous ML Algorithms (K-NN, SVMs, Naive Bayes, etc.)
+      * Clustering (K-Means, Hierarchical Clustering, etc.)
+    * Reasoning and Planning under Uncertainty
+      * Probability and Bayes Theorem
+      * Belief Nets
+      * (Hierarchical Hidden) Markov Markov
+      * Markov Decision Processes
+      * Reinforcement Learning (Value Iteration, Policy Iteration, Q-Learning)
+    * Extra Topics
+      * AI and Philosophy
+      * AI Ethics
+
+### Teaching Assistanceship Experience
+* Teaching Assistanceships - Ph.D. (* - guest lectures given)
+  * CS 4260 - Artificial Intelligence (2022F, 2023F, 2024S*, 2025F*, 2026S*)
+  * CS 1151 - Computer Ethics (Summer 2023, Summer 2024, Summer 2025)
+  * CS 3252 - Theory of Automata, Formal Languages, and Computation (2021F, 2023S*, 2024F*)
+  * CS 3265 - Databases (Summer 2022, Summer 2023)
+  * CS 3891 - Computational Creativity (2023S*)
+  * CS 3892 - Software for Autonomous Vehicles (2022S)
+  * CS 3270 - Programming Languages (2019F, 2020S, 2020F. 2021S)
+
+* Teaching Assistanceships - M.S.
+  * Programming Languages
+  * Analysis of Algorithms

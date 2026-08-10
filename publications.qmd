@@ -1,0 +1,26 @@
+---
+title: "My Publications"
+subtitle: "Kyle Moore"
+---
+My article list is also available, and possibly more up-to-date on my Google Scholar profile ([Link](https://scholar.google.com/citations?user=tZR8vMoAAAAJ)).
+
+## Publications
+
+* Moore, K., Roberts, J., Watson, D., Ward, W., & Heyboer, G. (2026). Human-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty. arXiv preprint arXiv:2605.30675.
+  * [Arxiv Link](https://arxiv.org/abs/2605.30675)
+* Moore, K., Roberts, J., Watson, D., & Wisniewski, P. (2026). Investigating Human-Aligned Large Language Model Uncertainty. In Proceedings of the 39th International FLAIRS Conference.
+  * [Arxiv Link](https://arxiv.org/abs/2503.12528)
+* Sawyer, H., Roberts, J., & Moore, K. Basic Categories in Vision Language Models: Expert Prompting Doesn't Grant Expertise. In Twelfth Annual Conference on Advances in Cognitive Systems.
+  * [Arxiv Link](https://arxiv.org/abs/2503.12530v2)
+* Roberts, J., Moore, K., & Fisher, D. (2025, July). Do large language models learn human-like strategic preferences?. In Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025) (pp. 97-108).
+  * [Arxiv Link](https://arxiv.org/abs/2404.08710)
+* Moore, K., Roberts, J., Pham, T. T. M., & Fisher, D. (2025). Chain of Thought Still Thinks Fast: APriCoT Helps with Thinking Slow. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47).
+  * [Arxiv Link](https://arxiv.org/abs/2408.08651)
+* Moore, K., Roberts, J., Pham, T., Ewaleifoh, O., & Fisher, D. (2024, November). The base-rate effect on LLM benchmark performance: Disambiguating test-taking strategies from benchmark performance. In Findings of the Association for Computational Linguistics: EMNLP 2024 (pp. 2283-2288).
+  * [Arxiv Link](https://arxiv.org/abs/2406.11634)
+* Roberts, J., Moore, K., Fisher, D., Ewaleifoh, O., & Pham, T. (2024, November). Large language model recall uncertainty is modulated by the fan effect. In Proceedings of the 28th conference on computational natural language learning (pp. 303-313).
+  * [Arxiv Link](https://arxiv.org/abs/2407.06349)
+* Roberts, J., Moore, K., Wilenzick, D., & Fisher, D. (2024, March). Using artificial populations to study psychological phenomena in neural models. In Proceedings of the aaai conference on artificial intelligence (Vol. 38, No. 17, pp. 18906-18914).
+  * [Arxiv Link](https://arxiv.org/abs/2308.08032)
+* Timalsina, U., Broll, B., Moore, K., Budavári, T., & Lédeczi, Á. (2022). DeepForge for astronomy: Deep learning SDSS redshifts from images. Astronomy and Computing, 40.
+  * [Elsevier Link](https://www.sciencedirect.com/science/article/abs/pii/S2213133722000361?casa_token=dCPQOGiW7vcAAAAA:9mG0EXdaGhpoXXmqHVPKj41P3eBH6kRm9uRj1jbTN8VGYMg4u0tDX5Jw9iIXCjLrxdIJ6j5Y3g)
