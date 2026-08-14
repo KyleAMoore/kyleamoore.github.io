@@ -21,6 +21,8 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/KyleAMoore
+    - text: "{{< iconify fa7-brands:google-scholar >}} Scholar"
+      href: "https://scholar.google.com/citations?user=tZR8vMoAAAAJ&hl=en"
     - icon: file-earmark-pdf
       text: CV
       href: files/cv.pdf

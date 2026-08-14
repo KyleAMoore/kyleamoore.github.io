@@ -2,3 +2,4 @@
 /_site/
 **/*.quarto_ipynb
 notes.txt
+/_extensions
