@@ -8,23 +8,31 @@ subtitle: "Ph.D. Vanderbit University (2026)"
 
 ---
 title: "Kyle Moore"
-subtitle: "PhD Candidate, Department of Computer Science, Vanderbilt University"
+subtitle: |
+  PhD Candidate, Department of Computer Science, Vanderbilt University
+
+  [moore.kyle.andrew@gmail.com](mailto:moore.kyle.andrew@gmail.com)
+  
+  [kyle.a.moore@vanderbilt.edu](mailto:kyle.a.moore@vanderbilt.edu)
 about:
   template: trestles
   
   image: files/profile_cropped.png
   image-shape: rounded
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:moore.kyle.andrew@gmail.com
+    - text: "{{< iconify simple-icons:orcid >}} ORCID"
+      href: "https://orcid.org/0000-0002-3255-7394"
+    - text: "{{< iconify fa6-brands:google-scholar >}} Scholar"
+      href: "https://scholar.google.com/citations?user=tZR8vMoAAAAJ&hl=en"
+
+    - text: "{{< iconify bi:linkedin >}} LinkedIn"
+      href: "http://www.linkedin.com/in/kyle-andrew-moore"
     - icon: github
       text: GitHub
       href: https://github.com/KyleAMoore
-    - text: "{{< iconify fa7-brands:google-scholar >}} Scholar"
-      href: "https://scholar.google.com/citations?user=tZR8vMoAAAAJ&hl=en"
+      
     - icon: file-earmark-pdf
-      text: CV
+      text: CV (pdf)
       href: files/cv.pdf
 ---
 
@@ -34,9 +42,8 @@ Welcome to my page. I am a recent PhD graduate  (Vanderbilt 2026) with a researc
 * Currently Published
   * Artificial Intelligence and Machine Learning
   * Natural Language Processing
-  * Large Language Models
+  * Large Language Model Behavior, Uncertainty, and Reasoning
   * Human-Comparable AI
-  * AI Behavior
 * Future
   * Human-AI Interaction
   * Affective Computing
