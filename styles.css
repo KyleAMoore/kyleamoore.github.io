@@ -1,1 +1,24 @@
 /* css styles */
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  --per-row: 2;
+}
+
+.about-links .about-link {
+  flex: 0 0 calc((100% - (var(--per-row) + 1) * 0.5em) / var(--per-row));
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0;   /* <-- remove built-in margin that was stacking with gap */
+}
+
+.subtitle a {
+  font-size: 0.6em;
+  /* color: var(--bs-secondary, #6c757d); */
+  text-decoration: none;
+}
+
+.subtitle a:hover {
+  text-decoration: underline;
+}
