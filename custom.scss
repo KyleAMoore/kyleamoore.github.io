@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+
+// One place to change it
+$brand: rgb(194,37,148);
+$footer-bg: rgb(52,58,64);
+$body-bg: rgb(184, 200, 222);
+
+// The root of Sandstone's green
+$green:   $brand;
+$success: $brand;
+
+// Links (Sandstone tints these from the green)
+$link-color:       $brand;
+$link-hover-color: darken($brand, 12%);
+
+// Quarto navigation chrome
+$navbar-hl:  $brand;   // navbar link hover/active
+$sidebar-hl: $brand;   // sidebar link hover/active
+
+// Active/focus states
+$component-active-bg:      $brand;
+$input-focus-border-color: lighten($brand, 25%);

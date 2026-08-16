@@ -17,8 +17,8 @@ subtitle: |
 about:
   template: trestles
   
-  image: files/profile_cropped.png
-  image-shape: rounded
+  image: files/headshot.jpg
+  image-shape: round
   links:
     - text: "{{< iconify simple-icons:orcid >}} ORCID"
       href: "https://orcid.org/0000-0002-3255-7394"

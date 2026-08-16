@@ -25,6 +25,7 @@ format:
       - flatly
       - sandstone
       # - brand
+      - custom.scss
     css: styles.css
     toc: true
 
