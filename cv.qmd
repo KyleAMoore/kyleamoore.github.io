@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-subtitle: Kyle Moore  --  [PDF](files/Kyle_Moore_CV)
+subtitle: Kyle Moore  --  [PDF](files/Kyle_Moore_CV.pdf)
 ---
 
 ## Research Interests

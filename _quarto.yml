@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - files/Kyle_Moore_CV.pdf
 
 website:
   title: "Kyle Moore"
