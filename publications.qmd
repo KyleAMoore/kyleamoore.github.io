@@ -5,7 +5,8 @@ subtitle: "Kyle Moore"
 My article list is also available, and possibly more up-to-date on my Google Scholar profile ([Link](https://scholar.google.com/citations?user=tZR8vMoAAAAJ)).
 
 ## Publications
-
+* Fisher, D., Moore, K., & Roberts, J. (2026). State-Space Search and Transformer-Based AI Hybridizations. In Proceedings of the Thirteenth Annual Conference on Advances in Cognitive Systems.
+  * Preprint currently unavailable.
 * Moore, K., Roberts, J., Watson, D., Ward, W., & Heyboer, G. (2026). Human-Alignment, Calibration, and Activation Patterns in Large Language Model Uncertainty. arXiv preprint arXiv:2605.30675.
   * [Arxiv Link](https://arxiv.org/abs/2605.30675)
 * Moore, K., Roberts, J., Watson, D., & Wisniewski, P. (2026). Investigating Human-Aligned Large Language Model Uncertainty. In Proceedings of the 39th International FLAIRS Conference.

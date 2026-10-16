@@ -33,7 +33,7 @@ about:
       
     - icon: file-earmark-pdf
       text: CV (pdf)
-      href: files/cv.pdf
+      href: files/Kyle_Moore_CV.pdf
 ---
 
 Welcome to my page. I am a recent PhD graduate  (Vanderbilt 2026) with a research focus on behavior, uncertainty, reasoning, and cognitive alignment in artificial intelligence systems, particularly large language models. If you are looking for more details on my academic career, check out my [CV](cv.html).
